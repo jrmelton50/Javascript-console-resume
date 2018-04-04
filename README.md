@@ -1,0 +1,1 @@
+This assignment mainly covered logging to the console, using functions properly, and grammatically displaying things correctly.
